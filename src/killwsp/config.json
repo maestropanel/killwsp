@@ -1,0 +1,24 @@
+﻿{
+	"MaestroPanel": {
+		"Host": "192.168.2.95",
+		"Port": 9715,
+		"https": false,
+		"apikey": "ddkdddodkdokdok",
+		"domainPlan": "default",
+		"resellerPlan": "default"
+	},
+	"Dns": true,
+	"Ftp": true,
+	"Web": true,
+	"Email": true,
+	"Reseller": true,
+	"ResellerLimits": true,
+	"DomainLimits": true,
+	"Alias": true,
+	"Subdomains": true,
+	"MsSQL": true,
+	"MySQL": true,
+	"ResellerFilters": ["user1", "user2"],
+	"DomainFilters": ["domain1.com", "domain2"]
+
+}

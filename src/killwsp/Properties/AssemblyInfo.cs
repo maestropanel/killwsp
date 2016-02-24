@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("killwsp")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("WebsitePanel to MaestroPanel")]
+[assembly: AssemblyDescription("WebsitePanel to MaestroPanel")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("killwsp")]
+[assembly: AssemblyCompany("MaestroPanel")]
+[assembly: AssemblyProduct("MaestroPanel")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

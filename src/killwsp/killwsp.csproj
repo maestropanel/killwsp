@@ -46,7 +46,8 @@
     <Compile Include="Models\wspDns.cs" />
     <Compile Include="Models\wspDomain.cs" />
     <Compile Include="Models\wspEmail.cs" />
-    <Compile Include="Models\wspInfo.cs" />
+    <Compile Include="Models\wspConfig.cs" />
+    <Compile Include="Models\wspSSL.cs" />
     <Compile Include="Models\wspUser.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

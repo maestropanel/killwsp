@@ -1,6 +1,6 @@
 ﻿namespace killwsp.Models
 {
-    public class wspInfo
+    public class wspConfig
     {
         public const string WEBSITEPANEL_WEBSITE_NAME = "WebsitePanel Enterprise Server";
         public const string WEBSITEPANEL_BASE_FILE = "WebsitePanel.EnterpriseServer.Base.dll";
